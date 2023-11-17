@@ -1,5 +1,1 @@
 qwerty
-
-after create new branch
-
-commit
